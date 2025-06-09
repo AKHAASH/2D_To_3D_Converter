@@ -1,0 +1,10 @@
+.gradio
+checkpoints
+venv
+assets/examples
+assets/examples_video
+assets/DA-2K.png
+assets/teaser.png
+depth_anything_v2/__pycache__
+depth_anything_v2/dinov2_layers/__pycache__
+depth_anything_v2/util/__pycache__
